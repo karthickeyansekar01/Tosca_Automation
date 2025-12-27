@@ -1,1 +1,56 @@
+Tosca AS2 – Advanced Level
+-------------------------------------
+
+🔹 1. Advanced TestCase Design
+
+Reusable & scalable test design
+
+TestCase templates
+
+Modular framework design
+
+🔹 2. Advanced Test Data Management
+
+Business Parameters
+
+Advanced TCD usage
+
+Centralized data handling
+
+🔹 3. Advanced Synchronization
+
+Dynamic waits
+
+Event-based handling
+
+Stable automation strategies
+
+🔹 4. Advanced Recovery Scenarios
+
+Global vs local recovery
+
+Complex failure handling
+
+🔹 5. Reusability & Optimization
+
+Common modules
+
+Execution optimization
+
+Framework efficiency
+
+🔹 6. Execution & Reporting
+
+Deep execution analysis
+
+Failure root-cause tracking
+
+🔹 7. Best Practices & Standards
+
+Naming conventions
+
+Folder structuring
+
+Enterprise scalability
+
 
