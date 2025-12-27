@@ -1,1 +1,53 @@
+Tosca AS1 – Foundation Level (Core Automation)
+----------------------------------------------
+Topics practised on Automation Specialist 1 Course
 
+🔹 1. Tosca Basics
+
+Tosca architecture & workspace
+
+Project structure & repositories
+
+🔹 2. Modules & Scanning
+
+Module creation (XScan)
+
+Module attributes & identification methods
+
+🔹 3. TestCase Design
+
+TestCase creation & execution
+
+ActionModes (Input, Verify, Buffer)
+
+Reusable TestSteps
+
+🔹 4. Test Configuration
+
+Test configuration parameters
+
+Execution lists & settings
+
+🔹 5. Test Data Handling
+
+TestCase Design (TCD) basics
+
+Parameterization
+
+Data-driven testing
+
+🔹 6. Synchronization
+
+WaitOn & synchronization basics
+
+🔹 7. Recovery Scenarios
+
+Basic error handling
+
+Recovery execution logic
+
+🔹 8. Reporting & Results
+
+Execution logs
+
+Result analysis
